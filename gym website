@@ -1,3 +1,13 @@
+HTML
+
+
+!DOCTYPE html>
+<html>
+<head>
+<title>gym website</title>
+</head>
+<body>
+
 #include<fstream>
 #include<cstring>
 #include<iomanip>
